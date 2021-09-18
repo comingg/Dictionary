@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @comingg
-- 👀 I’m interested in vú
+- 👀 I’m interested in you
 - 🌱 I’m currently learning web developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
